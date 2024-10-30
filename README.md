@@ -1,2 +1,5 @@
-## Currently working on
-https://hlozek.g6.cz
+### About
+- IT student
+- PC enthusiast
+- C1 certified
+- delam picoviny kterym nerozumim
