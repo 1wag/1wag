@@ -1,5 +1,2 @@
 ### About
-- IT student
-- PC enthusiast
-- C1 certified
-- delam picoviny kterym nerozumim
+- rad boucham do pocitace, aby potom pocitac delal husty veci
