@@ -1,2 +1,2 @@
 ### About
-- rad boucham do pocitace, aby potom pocitac delal husty veci
+- rad boucham picoviny do pocitace, aby potom pocitac delal husty veci
