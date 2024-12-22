@@ -10,5 +10,5 @@
 - MSi PRO Z790-S WiFi
 - DEEPCOOL AK620 2-FAN
 - M.2 NVMe Lexar SSD NM620 2TB
-- Endorfy ARX 700 Air
+- Endorfy ARX 500 Air
 - XPG Adata KYBER 850W
