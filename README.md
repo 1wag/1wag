@@ -12,3 +12,8 @@
 - M.2 NVMe Lexar SSD NM620 2TB
 - Endorfy ARX 500 Air
 - XPG Adata KYBER 850W
+
+## Peripherals
+- 34" 3440x1440 240Hz OLED
+- HyperX Alloy Origins Core
+- Razer DeathAdder Elite V2
