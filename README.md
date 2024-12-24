@@ -16,6 +16,6 @@
 - XPG Adata KYBER 850W
 
 ## Peripherals
-- 34" 3440x1440 240Hz OLED
+- Gigabyte MO34WQC2 34" 3440x1440 240Hz OLED
 - HyperX Alloy Origins Core
 - Razer DeathAdder Elite V2
